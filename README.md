@@ -53,9 +53,9 @@ I'm a passionate **Full Stack Developer** at **Radixweb**, specializing in build
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=smitpadshala99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=smitpadshala99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smitpadshala99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Smitpadshala99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Smitpadshala99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smitpadshala99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
