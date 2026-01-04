@@ -15,7 +15,7 @@ I'm a passionate **Full Stack Developer** at **Radixweb**, specializing in build
 - 🔭 Currently developing **Employee Performance Management** solutions using **Microsoft Power Platform**
 - 🌱 Exploring **Cloud Technologies** and **Enterprise Architecture**
 - 📝 I write about tech on [Medium](https://medium.com/@smitpadshala99)
-- 💬 Ask me about **Full Stack Development, ERP Solutions**
+- 💬 Ask me about **Full Stack Development, ERP Solutions, or SAP**
 - 📫 Reach me: **smitpadshala99@gmail.com**
 
 ## 🛠️ Tech Stack
@@ -53,9 +53,12 @@ I'm a passionate **Full Stack Developer** at **Radixweb**, specializing in build
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=Smitpadshala99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Smitpadshala99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smitpadshala99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smitpadshala99&theme=tokyonight" alt="GitHub Profile Summary" />
+
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Smitpadshala99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Smitpadshala99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Smitpadshala99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -109,7 +112,7 @@ RESTful HRM application using SAP RAP for managing employees, departments, and t
 
 ## 🤝 Connect with Me
 
-<div>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Smitpadshala99)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smitpadshala99)
@@ -117,7 +120,6 @@ RESTful HRM application using SAP RAP for managing employees, departments, and t
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://smitpadshala.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smitpadshala99@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@smitpadshala99)
-
 
 </div>
 
@@ -138,5 +140,3 @@ RESTful HRM application using SAP RAP for managing employees, departments, and t
 *"Passionate about solving business problems and building ERP solutions with clean, efficient full-stack code."*
 
 </div>
-
-
